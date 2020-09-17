@@ -1,0 +1,3 @@
+﻿  lwcc.cpp
+C:\Users\lbh\Desktop\02614\02614\lwcc.cpp(13,9): warning C4101: “result”: 未引用的局部变量
+  02614.vcxproj -> C:\Users\lbh\Desktop\02614\Debug\02614.exe
